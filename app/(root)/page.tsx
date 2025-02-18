@@ -14,9 +14,10 @@ export default async function Home({searchParams} : {
       views: 55,
       author: { _id: 1, name: 'Abu'},
       _id: 1,
-      image: "https://images.app.goo.gl/pZvtDKV1Btph4mDV9",
+      image: "https://static.vecteezy.com/system/resources/thumbnails/039/070/798/small_2x/ai-generated-a-blue-splash-of-water-forms-a-crown-like-shape-as-it-rises-from-the-bottom-of-the-image-ai-generative-photo.jpg",
       category: "Robots",
       title: 'We Robots',
+      description: 'This is a description'
     },
   ]
   return (
